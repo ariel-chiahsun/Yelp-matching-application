@@ -2,7 +2,7 @@
 
 I build a program that matches users preferences with recommended restaurants, and returns information about restaurants connectivity and the shortest paths between restaurants in the network. This program asks users about the type of restaurants and location they are looking for, and return the most desired restaurants using graph algorithms. Users are able to type in the type of restaurants and locations they are looking for in the form, and choose graph traversal (bfs/ dfs) and shortest path algorithms (bellman ford/ dijkstra). 
    
-## Instructions:
+## Instructions
 ### Required modules: 
 - json
 - urllib3
@@ -14,5 +14,5 @@ I build a program that matches users preferences with recommended restaurants, a
 ### API key: 
 Your private API Key will be automatically generated after you create your app on Yelp developer. For detailed instructions, refer to Yelp’s authentication guide.
 
-### Run project
+### Run project:
 run python3 checkpoint_advanced.py on terminal
